@@ -1,5 +1,5 @@
 # Age-prediction - Project Overview
-The dataset was provided by Diversiboard, a tech driven company. (https://diversiboard.com/).
+The dataset was provided by Diversiboard, a tech driven company (https://diversiboard.com/).
 
 The data was then preprocessed by carrying out Data cleaning and Feature engineering.
 
